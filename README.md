@@ -51,7 +51,7 @@ Feel free to check [issues page](https://github.com/tdchien88/react-todoz/issues
 
 Give a ⭐️ if this project helped you!
 
-[![support us](https://img.shields.io/badge/become-a patreon%20us-orange.svg?cacheSeconds=2592000)](https://www.patreon.com/tdchien88)
+[![support us](https://img.shields.io/badge/become-apatreon%20us-orange.svg?cacheSeconds=2592000)](https://www.patreon.com/tdchien88)
 
 
 ## 📝 License
