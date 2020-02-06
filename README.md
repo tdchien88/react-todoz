@@ -1,44 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Welcome to React Todo list app (TS) 👋
+-----
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+![Prerequisite](https://img.shields.io/badge/node-%3E%3D11.0.0-blue.svg)
+![Prerequisite](https://img.shields.io/badge/npm-%3E%3D6.0-blue.svg)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/tdchien88/react-todoz#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/tdchien88/react-todoz/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/tdchien88/react-todoz)](https://github.com/tdchien88/react-todoz/blob/master/LICENSE)
+[![Twitter: tdchien88](https://img.shields.io/twitter/follow/tdchien88.svg?style=social)](https://twitter.com/)
 
-## Available Scripts
+> Simple Todo list app built with React and TypeScript.
 
-In the project directory, you can run:
+### 🏠 [Homepage](https://tdchien88.github.io/react-todoz)
 
-### `npm start`
+## Prerequisites
+q
+- node >=11.0.0
+- npm >=6.0
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Install
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+```sh
+npm install
+```
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+npm run start
+```
 
-### `npm run build`
+## Run tests
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+npm run test
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Author
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👤 **TDChien88**
 
-### `npm run eject`
+* Github: [@tdchien88](https://github.com/tdchien88)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🤝 Contributing
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions, issues and feature requests are welcome!
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Feel free to check [issues page](https://github.com/tdchien88/react-todoz/issues).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Show your support
 
-## Learn More
+Give a ⭐️ if this project helped you!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![support us](https://img.shields.io/badge/become-a patreon%20us-orange.svg?cacheSeconds=2592000)](https://www.patreon.com/tdchien88)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+## 📝 License
+
+Copyright © 2020 [TDChien88](https://github.com/tdchien88).
+
+This project is [MIT](https://github.com/tdchien88/react-todoz/blob/master/LICENSE) licensed.
